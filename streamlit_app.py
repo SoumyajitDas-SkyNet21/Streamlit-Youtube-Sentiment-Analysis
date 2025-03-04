@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 
 # Initialize YouTube API
-API_KEY = 'AIzaSyAKylkn9ANwkb2gA1q8MEVpMrs_a_UbHJY'
+API_KEY = 'AIzaSyAK********ANwkb2**********************'
 youtube = build('youtube', 'v3', developerKey=API_KEY)
 
 # Function to fetch YouTube comments
